@@ -1,1 +1,1 @@
-https://github.com/Spark-Jetton/Spark/blob/main/logo.png.png
+https://github.com/Spark-Jetton/Spark/logo.png.png
